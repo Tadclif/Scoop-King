@@ -1,0 +1,24 @@
+
+App description
+
+DONE 1. login screen with cute logo
+
+----- 2. main screen with a cone stacked with your flavors, you should be able to scroll up and down and see all your different flavors
+------3. settings button top right, add flavor button top left
+
+ADD FLAVOR
+1. Brand
+2. Base Flavor
+3. Color Picker??
+4. Toppings
+5. makes the scoop in front of you by layering PNGs????
+
+
+
+
+
+SETTINGS PAGE
+1. log out
+2. list view or scoop view
+3. clear flavors
+
